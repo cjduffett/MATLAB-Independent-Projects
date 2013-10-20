@@ -1,0 +1,60 @@
+PatientID.01
+Name.Bertha Gyant
+Age.32
+Sex.F
+DOB.02/29/80
+History.Y
+PatientID.02
+Name.Marvin Eriksen
+Age.35
+Sex.M
+DOB.05/14/1980
+History.N
+PatientID.03
+Name.Jamie Triptophan
+Age.37
+Sex.F
+DOB.01/01/1975
+History.N
+PatientID.04
+Name.Agatha Morgast
+Age.39
+Sex.F
+DOB.04/23/1973
+History.N
+PatientID.05
+Name.Joe Fourier
+Age.45
+Sex.M
+DOB.09/17/1967
+History.
+PatientID.06
+Name.Ingrid Mingeroedt
+Age.31
+Sex.F
+DOB.03/27/1981
+History.Y
+PatientID.07
+Name.Michelangelo Cleft
+Age.30
+Sex.M
+DOB.06/28/1982
+History.
+PatientID.08
+Name.Daniella Lotera
+Age.44
+Sex.F
+DOB.10/09/1968
+History.Y
+PatientID.09
+Name.Larry Trotter
+Age.48
+Sex.M
+DOB.07/04/1964
+History.N
+PatientID.10
+Name.Andrew Liu
+Age.38
+Sex.M
+DOB.02/23/1974
+History.N
