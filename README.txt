@@ -4,8 +4,9 @@ October, 2013
 
 MATLAB-Independent-Projects
 
-This repository contains independent projects that I have developed as a student
- and instructor of MATLAB at Boston University.
+This repository contains projects that I have developed independently (unless otherwise
+noted) as a student of and Teaching Assistant for "EK 127: Introduction to Engineering
+Computation Using MATLAB" at Boston University.
 ________________________________________________________________________________________
 Tic Tac Toe:
 ________________________________________________________________________________________
@@ -17,6 +18,7 @@ ________________________________________________________________________________
 Enigma Machine:
 ________________________________________________________________________________________
 - EK 127 Project 1
+- Carlton Duffett and Sam Cheney
 - developed October 4, 2012
 
 - three-"rotor" computer cypher that takes simple text inputs and writes the cyphered
@@ -27,6 +29,7 @@ ________________________________________________________________________________
 A4 Protein Alheimers Test:
 ________________________________________________________________________________________
 - EK 127 Project 2
+- Carlton Duffett and Sam Cheney
 - developed November 6, 2012
 
 - takes a 5000 character "DNA sequence" of amino acids and finds certain combinations of
@@ -37,6 +40,7 @@ ________________________________________________________________________________
 BUSAT Data Analysis:
 ________________________________________________________________________________________
 - EK 127 Project 3
+- Carlton Duffett and Sam Cheney
 - developed December 8, 2012
 
 - GUI with multiple plots, user options, screen capture function
