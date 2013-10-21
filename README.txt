@@ -23,17 +23,17 @@ ________________________________________________________________________________
 
 - three-"rotor" computer cypher that takes simple text inputs and writes the cyphered
 	phrase to a file
-- can also read cyphered text from a file and decypher it with the right rotor settings
+- can also read cyphered text from a file and de-cypher it with the right rotor settings
 
 ________________________________________________________________________________________
-A4 Protein Alheimers Test:
+A4 Protein Alzheimer's Test:
 ________________________________________________________________________________________
 - EK 127 Project 2
 - Carlton Duffett and Sam Cheney
 - developed November 6, 2012
 
 - takes a 5000 character "DNA sequence" of amino acids and finds certain combinations of
-	amino acids that indicate alzheimers
+	amino acids that indicate Alzheimer's
 - reads patient information from a file, writes patient results to files
 
 ________________________________________________________________________________________
