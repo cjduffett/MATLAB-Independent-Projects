@@ -1,6 +1,6 @@
 Carlton Duffett
-cjduffett@comcast.net
-October, 2013
+carlton.duffett@gmail.com
+November, 2013
 
 MATLAB-Independent-Projects
 
@@ -13,6 +13,14 @@ ________________________________________________________________________________
 - developed March 27, 2013
 
 - GUI that includes one- and two- player game modes, AI computer opponent, scorekeeping
+
+
+________________________________________________________________________________________
+Slider Puzzle:
+________________________________________________________________________________________
+- developed November 22, 2013
+
+- GUI for a simple slider puzzle game.
 
 ________________________________________________________________________________________
 Enigma Machine:
