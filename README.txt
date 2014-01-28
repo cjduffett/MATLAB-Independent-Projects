@@ -1,12 +1,12 @@
 Carlton Duffett
 carlton.duffett@gmail.com
-November, 2013
+January, 2014
 
 MATLAB-Independent-Projects
 
-This repository contains projects that I have developed independently (unless otherwise
-noted) as a student of and Teaching Assistant for "EK 127: Introduction to Engineering
-Computation Using MATLAB" at Boston University.
+This repository contains projects that I have developed independently.  Select projects
+where noted were developed collaboratively in “EK127: Introduction to Engineering
+Computation” at Boston University in Fall, 2012.
 ________________________________________________________________________________________
 Tic Tac Toe:
 ________________________________________________________________________________________
@@ -14,6 +14,12 @@ ________________________________________________________________________________
 
 - GUI that includes one- and two- player game modes, AI computer opponent, scorekeeping
 
+________________________________________________________________________________________
+Simon Says:
+________________________________________________________________________________________
+- developed January 27, 2014
+
+- GUI for a simple Simon Says game.
 
 ________________________________________________________________________________________
 Slider Puzzle:
@@ -52,6 +58,6 @@ ________________________________________________________________________________
 - developed December 8, 2012
 
 - GUI with multiple plots, user options, screen capture function
-- reads and plots  accelerometer and gyroscope data obtained from an iPhone
+- reads and plots accelerometer and gyroscope data obtained from an iPhone
 
 ________________________________________________________________________________________
